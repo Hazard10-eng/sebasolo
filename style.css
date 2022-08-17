@@ -1,0 +1,46 @@
+body{
+    background-color: brown;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  ;
+}
+#header{
+    float: left;;
+    margin: 10%;
+    font-weight: 15;
+
+}
+#nav-bar{
+    text-align: right;
+    position: relative;
+    text-decoration: none;
+    list-style: none;
+    
+}
+ul{
+    list-style: none;
+
+}
+#header{
+    text-align: center;
+    font-size: large;
+    color: black;
+    
+}
+form{
+    text-align: center;
+    font-size: larger;
+    padding: 15px 18px;
+}
+#submit{
+    text-align: center;
+    background-color: yellow;
+    border: none;
+    padding: 14px 16px;
+} 
+.container{
+    margin-right: 8%;
+
+}
+p{
+    text-align: center;
+}       
